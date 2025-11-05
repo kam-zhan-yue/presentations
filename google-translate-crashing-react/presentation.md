@@ -6,12 +6,4 @@ theme:
   name: catppuccin-frappe
 ---
 
-Test
----
-
-## Customizability
-
-<!--end_slide-->
-
-This is another slide
-What
+This presentation has been lost to the annals of time due to a data reset on a broken laptop :(
